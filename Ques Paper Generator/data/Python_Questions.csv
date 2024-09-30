@@ -1,0 +1,21 @@
+Question,Answer
+What is Python?,"Python is a high-level, interpreted programming language known for its simplicity and readability."
+What are the key features of Python?,"Key features of Python include dynamic typing, automatic memory management, a large standard library, and easy readability."
+What is PEP 8?,"PEP 8 is a style guide for Python code, outlining recommended coding conventions to improve code readability."
+What is the difference between Python 2 and Python 3?,"Python 2 is legacy and no longer supported, while Python 3 is the current version with improvements and new features."
+How do you comment in Python?,"Comments in Python start with the '#' symbol for single-line comments and triple quotes (''' or """""") for multi-line comments."
+What are Python's data types?,"Python data types include integers, floats, strings, lists, tuples, dictionaries, sets, and more."
+What is a list comprehension in Python?,A list comprehension is a concise way to create lists in Python using a single line of code.
+What is a tuple in Python?,"A tuple is an immutable collection of elements, defined using parentheses ()."
+What is a dictionary in Python?,"A dictionary is a collection of key-value pairs, defined using curly braces {}."
+How do you define a function in Python?,You can define a function in Python using the 'def' keyword followed by the function name and parameters.
+What is the difference between '==' and 'is' in Python?,"==' checks for equality of values, while 'is' checks for object identity (if two variables refer to the same object)."
+What is the purpose of 'if name == 'main': in Python?,"This statement allows you to define code that should only run when the script is executed directly, not when it's imported as a module."
+What is a module in Python?,A module is a file containing Python code that can be reused in other Python programs using 'import'.
+What is the 'self' keyword in Python?,The 'self' keyword is used as the first parameter in a class method to refer to the instance of the class.
+How do you handle exceptions in Python?,"Exceptions in Python can be handled using 'try', 'except', 'else', and 'finally' blocks."
+What is the difference between 'append()' and 'extend()' for lists in Python?,"append()' adds a single element to the end of a list, while 'extend()' adds multiple elements (from an iterable) to the end of a list."
+What is a lambda function in Python?,"A lambda function is a small anonymous function defined using the 'lambda' keyword, typically used for short, simple operations."
+How do you open and read a file in Python?,You can open and read a file in Python using the 'open()' function with the 'r' mode for reading.
+What is a generator in Python?,"A generator is a function that produces a sequence of values using 'yield' instead of 'return', allowing for memory-efficient iteration."
+What are decorators in Python?,"Decorators are functions that modify the behavior of other functions or methods, commonly used for adding functionality to existing code."
